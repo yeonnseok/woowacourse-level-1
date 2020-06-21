@@ -1,3 +1,4 @@
 [submodule "java-racingcar"]
 	path = java-racingcar
 	url = https://github.com/yeonnseok/java-racingcar.git
+	branch = bossdog
