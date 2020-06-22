@@ -10,3 +10,6 @@
 	path = java-blackjack
 	url = https://github.com/yeonnseok/java-blackjack.git
 	branch = bossdog2
+[submodule "java-chess"]
+	path = java-chess
+	url = https://github.com/yeonnseok/java-chess.git
