@@ -17,4 +17,4 @@
 [submodule "java-chicken-2020"]
 	path = java-chicken-2020
 	url = https://github.com/yeonnseok/java-chicken-2020.git
-	branch = master
+	branch = bossdog
