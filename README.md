@@ -28,5 +28,6 @@
   - 학습 키워드 : 객체 지향 설계, TDD, 리팩토링, MVC패턴, Enum, Exception 등. 
   - [코드 리뷰 정리](https://github.com/yeonnseok/woowacourse-level1/wiki/9.-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%EC%A0%95%EB%A6%AC-(chicken))
   - [도메인 설계 및 실행 결과](https://github.com/yeonnseok/woowacourse-level1/wiki/10.-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%84%A4%EA%B3%84-%EB%B0%8F-%EC%8B%A4%ED%96%89-%EA%B2%B0%EA%B3%BC-(chicken))
-  
-## 함께 공부한 개발 서적들..
+
+---
+## 함께 공부한 개발 서적
