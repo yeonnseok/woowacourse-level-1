@@ -1,8 +1,8 @@
 # woowacourse-level1
 우아한 테크코스 2기 레벨 1 미션 및 코드리뷰 모음
 
-[우아한 테크코스 교육페이지](https://techcourse.woowahan.com/)
-[레벨 1 회고]()
+[`우아한 테크코스 교육페이지`](https://techcourse.woowahan.com/)
+[`우아한 테크코스 레벨 1 회고`]()
 
 ### 자동차 경주 게임
   - 학습 키워드 : 객체 지향 생활 체조, 클래스, 인스턴스, TDD, 리팩토링, 자바 컨벤션, MVC 패턴 등.
