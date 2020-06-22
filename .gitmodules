@@ -13,3 +13,4 @@
 [submodule "java-chess"]
 	path = java-chess
 	url = https://github.com/yeonnseok/java-chess.git
+	branch = bossdog-chess
