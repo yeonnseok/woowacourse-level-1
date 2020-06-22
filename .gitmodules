@@ -5,3 +5,4 @@
 [submodule "java-lotto"]
 	path = java-lotto
 	url = https://github.com/yeonnseok/java-lotto.git
+	branch = bossdog2
