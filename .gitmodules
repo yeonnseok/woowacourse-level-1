@@ -6,3 +6,7 @@
 	path = java-lotto
 	url = https://github.com/yeonnseok/java-lotto.git
 	branch = bossdog2
+[submodule "java-blackjack"]
+	path = java-blackjack
+	url = https://github.com/yeonnseok/java-blackjack.git
+	branch = bossdog2
