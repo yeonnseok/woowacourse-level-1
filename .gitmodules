@@ -2,3 +2,6 @@
 	path = java-racingcar
 	url = https://github.com/yeonnseok/java-racingcar.git
 	branch = bossdog
+[submodule "java-lotto"]
+	path = java-lotto
+	url = https://github.com/yeonnseok/java-lotto.git
