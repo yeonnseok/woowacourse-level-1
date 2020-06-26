@@ -1,4 +1,4 @@
-# woowacourse-level1
+# woowacourse-level-1
 우아한 테크코스 2기 레벨 1 미션 및 코드리뷰 모음
 
 [`우아한 테크코스 교육페이지`](https://techcourse.woowahan.com/)
